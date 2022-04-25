@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2-generate", "lab2-generate\lab2-generate.csproj", "{BE1D869B-FBE9-4D72-95CD-1060F2F1EFA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2-parser", "lab2-parser\lab2-parser.csproj", "{96A2DC95-3F0F-4467-A5EB-6F2FA41FE775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2", "lab2\lab2.csproj", "{CC5678ED-AC9E-43BF-A089-23300C92E23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1D869B-FBE9-4D72-95CD-1060F2F1EFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1D869B-FBE9-4D72-95CD-1060F2F1EFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1D869B-FBE9-4D72-95CD-1060F2F1EFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1D869B-FBE9-4D72-95CD-1060F2F1EFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A2DC95-3F0F-4467-A5EB-6F2FA41FE775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A2DC95-3F0F-4467-A5EB-6F2FA41FE775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A2DC95-3F0F-4467-A5EB-6F2FA41FE775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A2DC95-3F0F-4467-A5EB-6F2FA41FE775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5678ED-AC9E-43BF-A089-23300C92E23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5678ED-AC9E-43BF-A089-23300C92E23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5678ED-AC9E-43BF-A089-23300C92E23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5678ED-AC9E-43BF-A089-23300C92E23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
